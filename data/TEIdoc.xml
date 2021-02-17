@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-//TEI P5//DTD Main Document Type//EN" "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><!-- supply a title --></title>
+        Автор:
+        <author> Антон Павлович Чехов </author>
+        Огранизация:
+        <editor> Южный федеральный университет </editor>
+        <respStmt> <resp> Преобразовано в кодировку XML</resp> <persName subtype="real"> </persName><resp> Идея, постановка задачи</resp> <persName subtype="real"> Северина Елена Михайловна </persName><persName subtype="real"> Ларионова Марина Ченгаровна </persName><persName subtype="real"> Милькевич Елена Степановна </persName><resp>Разработка разметки и техническая реализация</resp> <persName subtype="real">Кудин Анастасия</persName><persName subtype="real"> Северин Никита </persName></respStmt>
+      </titleStmt>
+      Информация об издании:
+      <editionStmt>  <p></p></editionStmt>
+      Объем произведения:
+      <extent>  </extent>
+      <biblScope unit="volume"></biblScope>
+      <publicationStmt>
+      Издатель
+       <publisher> АН СССР. Ин-т мировой лит. им. А. М. Горького </publisher>
+       <pubPlace> Москва </pubPlace>
+       <availability> <p> Тексты и метатекстовая разметка доступны для свободного использования и распространения по лицензии CC Attribution — ShareAlike</p></availability>
+       Дата публикации:
+       <date>  </date>
+      </publicationStmt>
+      <sourceDesc>
+      Полное библиографическое описание:
+        <biblFull> <p>  </p> </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+    Дата создания произведения:
+     <creation>
+       <date>  </date>
+     </creation>
+     <isFinished>
+     Оконченный
+     </isFinished>
+     <isPublished>
+     Опубликованный
+     </isPublished>
+     Язык произведения:
+     <langUsage>
+       <language ident="ru"> Русский </language>
+     </langUsage>
+     Тип текста:
+     <textClass>  </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    </body>
+  </text>
+</TEI>
